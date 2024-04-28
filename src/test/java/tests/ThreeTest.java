@@ -17,6 +17,7 @@ public class ThreeTest extends Base {
 		System.out.println("Krish update");
 
 		driver = intializeDriver();
+		System.out.println("333333Krish update");
 
 		driver.get("https://mvnrepository.com/");
 
